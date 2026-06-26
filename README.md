@@ -20,7 +20,7 @@ Estudiante de último semestre de Tecnología en Desarrollo de Software con expe
 ### NOIR URBANO
 Plataforma e-commerce con integración de pagos mediante Wompi.
 
-🔗 [https://noir-urbano-kkfi.vercel.app](https://noir-urbano.vercel.app)
+🔗 noir-urbano.vercel.app
 
 ### J&M Lavados
 Sitio web empresarial enfocado en presencia digital y captación de clientes.
