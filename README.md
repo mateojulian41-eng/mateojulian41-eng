@@ -103,6 +103,6 @@ Actualmente estoy profundizando en varios de estos conceptos para fortalecer mi 
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/mateo-payares-8b75a5419
+- LinkedIn: https://www.linkedin.com/in/mateopayaresc
 - Correo: mateojulian41@gmail.com
-- GitHub: www.linkedin.com/in/mateopayaresc
+- GitHub: https://github.com/mateojulian41-eng
