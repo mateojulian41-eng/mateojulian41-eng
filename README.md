@@ -53,7 +53,7 @@ Incluye:
 
 > La plataforma tecnológica es funcional, pero los productos visibles son demostrativos y la operación comercial continúa en fase de validación.
 
-### J&M Lavados | Proyecto web independiente
+### J&M Lavados | Sitio web corporativo
 
 Sitio corporativo responsive desarrollado para un negocio de servicios de limpieza.
 
